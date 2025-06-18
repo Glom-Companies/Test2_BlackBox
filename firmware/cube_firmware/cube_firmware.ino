@@ -11,10 +11,10 @@ Adafruit_MPU6050 mpu;          // MPU-6050 object
 
 // Flight data structure
 struct FlightData {
-  int16_t roll;      // Roll angle (degrees * 100)
-  int16_t pitch;     // Pitch angle (degrees * 100)
-  int16_t accel_z;   // Z acceleration (m/s^2 * 100)
-  byte status;       // System status: 0=normal, 1=crash detected
+  int16_t roll;                // Roll angle (degrees * 100)
+  int16_t pitch;               // Pitch angle (degrees * 100)
+  int16_t accel_z;             // Z acceleration (m/s^2 * 100)
+  byte status;                 // System status: 0=normal, 1=crash detected
 };
 
 // --- EEPROM Parameters ---
