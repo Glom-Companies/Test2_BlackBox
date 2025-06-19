@@ -194,13 +194,25 @@ The most compelling elements are the visuals of the system in action. The images
 
 ---
 
-### 8. Conclusion
+### 8. Difficultés Rencontrées
+
+Ce projet, bien que mené à bien, n'a pas été sans embûches. Plusieurs défis ont dû être surmontés :
+
+* **Contraintes de Temps :** La période de développement a été particulièrement intense, avec des compositions (examens) pour la plupart des membres de l'équipe. Les délais initiaux ont été difficiles à respecter.
+* **Prise en Main du Logiciel :** L'apprentissage des outils de conception, notamment KiCad, a nécessité un temps considérable, impactant l'avancement global.
+* **Incompatibilité des Caractéristiques PCB :** Les spécifications des PCBs conçus sur logiciel se sont révélées incompatibles avec les capacités de la machine d'impression disponible, nécessitant des ajustements et des compromis.
+* **Insuffisance des Fonds :** Le budget alloué au projet s'est avéré insuffisant pour l'acquisition de tous les composants nécessaires, limitant certaines fonctionnalités ou nécessitant des solutions alternatives.
+* **Disponibilité des Composants :** Certains composants essentiels n'étaient pas disponibles dans les points de vente locaux, entraînant des retards et des modifications dans la conception.
+
+---
+
+### 9. Conclusion
 
 The "BlackBox & Control Station - IFRI" system represents a complete and robust solution for critical data acquisition, monitoring, and recovery in an embedded environment. Developed rigorously for the **Tekbot Robotics Challenge 2K25 - RESILIENCE**, it demonstrates our expertise in electronics, embedded programming, and inter-system communication. We hope this project will serve as a solid foundation for future explorations and innovations in the field of robotics and embedded systems.
 
 ---
 
-### 9. License
+### 10. License
 
 This project is distributed under the MIT License. The terms of this license permit the use, modification, and distribution of the code.
 

@@ -188,8 +188,8 @@
       ],
       "track_widths": [
         0.0,
-        0.25,
-        0.5
+        0.6,
+        0.6
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -472,7 +472,7 @@
     "classes": [
       {
         "bus_width": 12,
-        "clearance": 0.2,
+        "clearance": 0.3,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -483,7 +483,7 @@
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 2147483647,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.5,
+        "track_width": 0.6,
         "via_diameter": 0.6,
         "via_drill": 0.3,
         "wire_width": 6
@@ -497,15 +497,15 @@
     "netclass_patterns": [
       {
         "netclass": "Default",
-        "pattern": "/SDA"
-      },
-      {
-        "netclass": "Default",
         "pattern": "5V"
       },
       {
         "netclass": "Default",
         "pattern": "/5V"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "/SCL"
       }
     ]
   },
